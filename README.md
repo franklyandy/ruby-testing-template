@@ -1,4 +1,4 @@
-Ruby Test Project Template
+Ruby Testing Template
 ===================
 
 A ruby project template for testing.
